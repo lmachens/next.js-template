@@ -1,4 +1,4 @@
-You like [Next.js](https://nextjs.org/)? Awesome! This template adds [ESLint](https://eslint.org/), [stylelint](https://stylelint.io/), [Prettier](https://prettier.io/), [husky](https://typicode.github.io/husky/#/) and [lint-staged](https://github.com/okonet/lint-staged) to your new [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) project.
+You like [Next.js](https://nextjs.org/)? Awesome! This template adds [ESLint](https://eslint.org/), [stylelint](https://stylelint.io/), [Prettier](https://prettier.io/), [husky](https://typicode.github.io/husky/#/) and [lint-staged](https://github.com/okonet/lint-staged) to your new [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) project. All starter code is converted to [TypeScript](https://www.typescriptlang.org/).
 
 ## Getting Started
 
