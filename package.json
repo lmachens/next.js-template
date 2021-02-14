@@ -4,6 +4,10 @@
   "private": true,
   "scripts": {
     "postinstall": "husky install",
+    "typecheck": "tsc",
+    "lint": "eslint .",
+    "prettier": "prettier --check \"**/*.{js,jsx,ts,tsx,css,md,json}\"",
+    "test": "npm run typecheck && npm run lint && npm run prettier",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
